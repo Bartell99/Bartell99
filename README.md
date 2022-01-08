@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bartell99
+-1. 👋 Hi, I’m @Bartell99
 - 👀 I’m interested in ... Tokens
 - 🌱 I’m currently learning ...how this all work
 - 💞️ I’m looking to collaborate on ...any token
